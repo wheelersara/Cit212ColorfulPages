@@ -1,0 +1,32 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;   
+    height: 95vh;
+    width: 95vw;
+}
+.header{
+    font-size: 70px;
+    text-align: center;
+    align-items: center;
+    height: 10%;
+    width: 100%;
+    margin: 10px;
+}
+
+.box{
+    height: 80%;
+    width: 30%;
+    margin: 20px;
+    text-align: center;  
+}
+
+.box p{
+    font-size: 32px;
+    margin: 20px;
+}
+
+.box img{
+    height: 40%;
+    width: 85%
+}
